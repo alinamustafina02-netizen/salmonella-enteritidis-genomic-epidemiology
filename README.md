@@ -23,11 +23,7 @@ Commands used for the genomic analysis in the article *"*Phylogenetic Analysis a
 | Statistics and plots | R / ggplot2 | 4.5.2 / 4.0.3 |   
    
 **Workflow**  
-The dataset combines public assemblies from NCBI and genomes assembled in this study  
-   
- from SRA reads (for isolates without an available assembly). All final assemblies  
-   
- are collected in genomes/ as <isolate ID>.fna.  
+The dataset combines public assemblies from NCBI and genomes assembled in this study from SRA reads (for isolates without an available assembly). All final assemblies are collected in genomes/ as <isolate ID>.fna.  
 Scripts are in scripts/ and are run in order:  
 **Data**  
 - 00a_download_ncbi_assemblies.sh — download of public assemblies from NCBI; accessions and isolate IDs in samples_ncbi.tsv  
