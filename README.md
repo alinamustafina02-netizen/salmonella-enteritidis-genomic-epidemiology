@@ -1,4 +1,4 @@
-***Salmonella***** Enteritidis genome analysis**  
+**_Salmonella_ Enteritidis genome analysis**
 Commands used for the genomic analysis in the article "Comparative Genomic Analysis of _Salmonella_ Enteritidis from Kazakhstan in a Regional Context
 ".  
 **Software**  
