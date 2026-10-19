@@ -1,5 +1,6 @@
 ***Salmonella***** Enteritidis genome analysis**  
-Commands used for the genomic analysis in the article *"*Phylogenetic Analysis and Resistance Gene Profile of  *Salmonella* Enteritidis from Kazakhstan".  
+Commands used for the genomic analysis in the article "Comparative Genomic Analysis of _Salmonella_ Enteritidis from Kazakhstan in a Regional Context
+".  
 **Software**  
 | | | |  
 |-|-|-|  
